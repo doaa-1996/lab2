@@ -1,0 +1,41 @@
+header {
+    font-size: 50px;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 20px;
+    margin-bottom: 70px;
+    height: 200px;
+    padding-top: 50px;
+}
+
+select {
+    background-color: white;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 0.5px solid turquoise;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+
+font-size: 18px;
+}
+
+footer {
+    clear: both;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 10px;
+}
